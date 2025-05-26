@@ -3,7 +3,7 @@ TASK 1
 
 Titanic Dataset Preprocessing
 
-This project involves preprocessing the Titanic dataset using Python and libraries such as Pandas, Seaborn, and Scikit-learn. It follows a typical data preprocessing pipeline as part of a data science or machine learning workflow.
+This task involves preprocessing the Titanic dataset using Python and libraries such as Pandas, Seaborn, and Scikit-learn. It follows a typical data preprocessing pipeline as part of a data science or machine learning workflow.
 
 Steps Steps Done
 
